@@ -108,6 +108,7 @@ int main(void)
     LPUART_EnableInterrupts(DEMO_LPUART, kLPUART_RxDataRegFullInterruptEnable);
     EnableIRQ(DEMO_LPUART_IRQn);
 
+	//PRINTF("START YOUR Ring Buffer\r\n");
     while (1)
     {
         /* Send data only when LPUART TX register is empty and ring buffer has data to send out. */
