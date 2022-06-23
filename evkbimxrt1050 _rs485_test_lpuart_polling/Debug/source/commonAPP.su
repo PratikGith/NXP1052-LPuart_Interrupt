@@ -1,0 +1,9 @@
+../source/commonAPP.c:10:9:CompareBuffers	72	static
+../source/commonAPP.c:44:6:CreatePOSTString	32	static
+../source/commonAPP.c:49:6:CreateJSONString	176	static
+../source/commonAPP.c:74:5:ArraySize	24	static
+../source/commonAPP.c:92:6:AddToArray	24	static
+../source/commonAPP.c:98:6:CreateDateTimeString	40	static
+../source/commonAPP.c:103:6:ADMSON	8	static
+../source/commonAPP.c:110:6:ADMSOFF	8	static
+../source/commonAPP.c:117:6:delay_ms	24	static
